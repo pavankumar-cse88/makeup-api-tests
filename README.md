@@ -5,7 +5,7 @@ Problem Statement - makeup
 
 Solution:
 =========
-1.Query makeup api to get list of product based on filters
+1.Query makeup api to get list of products based on filters
 2.For every product validate whether product's brand is matching with queried brand
 
 Project Details:
